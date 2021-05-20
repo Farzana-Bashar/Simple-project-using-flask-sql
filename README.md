@@ -1,5 +1,9 @@
 # Simple-project-using-flask-sql
 
+A simple project which helps you to make your regular ***TODO*** list.
+
+I follow [freecodecamp.org](https://www.youtube.com/watch?v=Z1RJmh_OqeA) for this project
+
 This repo has been updated to work with `Python v3.8` and up.
 
 ## How To Run
